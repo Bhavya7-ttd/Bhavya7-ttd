@@ -49,4 +49,4 @@ I enjoy building projects, learning new technologies, and contributing to open s
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhavya7-ttd&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=Bhavya7-ttd&theme=tokyonight&hide_border=true)
