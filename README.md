@@ -41,7 +41,7 @@ I enjoy building projects, learning new technologies, and contributing to open s
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Bhavya7-ttd&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=Bhavya7-ttd&show_icons=true&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavya7-ttd&layout=compact&theme=tokyonight&hide_border=true)
 
