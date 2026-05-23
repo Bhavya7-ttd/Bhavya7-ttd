@@ -22,6 +22,23 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
 
+## 🌐 Coding Profiles
+
+<p align="left">
+
+<a href="https://leetcode.com/u/BalaNagaBhavya/" target="blank">
+<img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+</a>
+
+<a href="https://www.codechef.com/users/heavy_cloak_35" target="blank">
+<img align="center" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/ramisettyanurad1" target="blank">
+<img align="center" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+</a>
+
+</p>
 🚀 Projects:
 - AI Traffic Management Dashboard
 - Library Book Manager
