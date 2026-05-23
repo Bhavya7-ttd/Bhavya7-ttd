@@ -39,6 +39,9 @@ I enjoy building projects, learning new technologies, and contributing to open s
 
 ---
 
+### 🏅 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/BalaNagaBhavya?theme=dark&font=Karma)
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=Bhavya7-ttd&show_icons=true&theme=tokyonight)
