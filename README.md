@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&color=36BCF7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Open+Source+Contributor;DSA+Enthusiast;Full+Stack+Learner" />
 </p>
----
 
 🌱 I’m currently learning:
 - Data Structures & Algorithms
