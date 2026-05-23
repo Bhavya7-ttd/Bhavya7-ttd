@@ -54,10 +54,13 @@ Desktop application using Python and SQLite for managing books, search, issue, a
 ### 🌙 Auto-Fill-Tool Dark Mode Feature
 Contributed dark mode UI enhancement to an open-source project during GSSoC 2026.
 
-🏆 Achievements:
-- GSSoC 2026 Contributor
-- Active GitHub Contributor
-- Solving coding problems on LeetCode & CodeChef
+## 🏆 Achievements
+
+- 🚀 Open Source Contributor at GSSoC 2026
+- 💻 Solved 300+ problems across LeetCode, CodeChef, and HackerRank
+- 🌙 Successfully contributed Dark Mode feature to an open-source project
+- 📚 Active learner in DSA, Full Stack Development, and Open Source
+- ⭐ Consistently building projects and improving coding skills
 
 📫 Connect with me:
 - LinkedIn: [Bhavya Ramisetty](https://www.linkedin.com/in/ramisetty-bala-naga-bhavya-687555322)
