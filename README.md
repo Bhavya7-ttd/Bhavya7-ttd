@@ -38,11 +38,21 @@
 <img align="center" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 </a>
 
-</p>
-🚀 Projects:
-- AI Traffic Management Dashboard
-- Library Book Manager
-- Lost and Found Management System
+</p
+
+## 🚀 Highlighted Projects
+
+### 🚦 AI Traffic Management Dashboard
+Smart traffic control system using AI, OpenCV, and Reinforcement Learning to optimize signal timing and reduce congestion.
+
+### 🔍 Lost and Found Management System
+A web-based platform to report, search, and manage lost & found items efficiently.
+
+### 📚 Library Book Manager
+Desktop application using Python and SQLite for managing books, search, issue, and return operations.
+
+### 🌙 Auto-Fill-Tool Dark Mode Feature
+Contributed dark mode UI enhancement to an open-source project during GSSoC 2026.
 
 🏆 Achievements:
 - GSSoC 2026 Contributor
