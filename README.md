@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhavya Ramisetty</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&color=36BCF7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Open+Source+Contributor;DSA+Enthusiast;Full+Stack+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&color=36BCF7&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Full+Stack+Developer;AI+Healthcare+Project+Builder;Open+Source+Contributor;DSA+Enthusiast" />
 </p>
 
 🌱 I’m currently learning:
@@ -42,17 +42,30 @@
 
 ## 🚀 Highlighted Projects
 
+### 💊 MediCare – AI-Powered Family Healthcare Management System
+
+Developed a smart healthcare platform using Firebase, Gemini AI, and Web Speech API. Features include medicine reminders, voice-based medicine entry, AI health assistance, family member tracking, caregiver monitoring, doctor management, appointment scheduling, analytics dashboard, emergency SOS alerts, and prescription management.
+
+**Tech Stack:** HTML, CSS, JavaScript, Firebase Authentication, Firestore, Firebase Hosting, Gemini AI, Web Speech API
+
+- 💊 MediCare Live Demo: https://medicare-5011c.web.app
+
 ### 🚦 AI Traffic Management Dashboard
+
 Smart traffic control system using AI, OpenCV, and Reinforcement Learning to optimize signal timing and reduce congestion.
 
 ### 🔍 Lost and Found Management System
+
 A web-based platform to report, search, and manage lost & found items efficiently.
 
 ### 📚 Library Book Manager
+
 Desktop application using Python and SQLite for managing books, search, issue, and return operations.
 
 ### 🌙 Auto-Fill-Tool Dark Mode Feature
+
 Contributed dark mode UI enhancement to an open-source project during GSSoC 2026.
+
 
 ## 🏆 Achievements
 
