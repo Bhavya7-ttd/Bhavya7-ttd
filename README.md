@@ -48,7 +48,7 @@ Developed a smart healthcare platform using Firebase, Gemini AI, and Web Speech 
 
 **Tech Stack:** HTML, CSS, JavaScript, Firebase Authentication, Firestore, Firebase Hosting, Gemini AI, Web Speech API
 
-- 💊 MediCare Live Demo: https://medicare-5011c.web.app
+- 💊 MediCare Live Demo: https://medi-care-upgraded.vercel.app/
 
 ### 🚦 AI Traffic Management Dashboard
 
