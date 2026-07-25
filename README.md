@@ -127,7 +127,7 @@ Desktop application for managing books, search, issue, and return operations.
 <tr>
 <td width="50%" valign="top">
 
-### 🅿️ AVA — Skyline Parking Garage Management System
+### 🅿️ JAVA — Skyline Parking Garage Management System
 
 Desktop-based parking management application with smart spot allocation (preferred-level & nearest-available), an interactive color-coded garage map, automated fee calculation, ticket/receipt generation, and a live revenue & occupancy dashboard.
 
