@@ -4,18 +4,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student;Full+Stack+Developer;AI+Healthcare+Project+Builder;Open+Source+Contributor;DSA+Enthusiast" alt="Typing SVG" />
 
-<a href="https://www.linkedin.com/in/ramisetty-bala-naga-bhavya-687555322">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/BalaNagaBhavya/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-</a>
-<a href="https://www.codechef.com/users/heavy_cloak_35">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-<a href="https://www.hackerrank.com/profile/ramisettyanurad1">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-</a>
+<p align="center">
+<a href="https://www.linkedin.com/in/ramisetty-bala-naga-bhavya-687555322"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://leetcode.com/u/BalaNagaBhavya/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a> <a href="https://www.codechef.com/users/heavy_cloak_35"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a> <a href="https://www.hackerrank.com/profile/ramisettyanurad1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+</p>
 
 </div>
 
@@ -127,7 +118,7 @@ Desktop application for managing books, search, issue, and return operations.
 <tr>
 <td width="50%" valign="top">
 
-### 🅿️ JAVA — Skyline Parking Garage Management System
+### 🅿️ AVA — Skyline Parking Garage Management System
 
 Desktop-based parking management application with smart spot allocation (preferred-level & nearest-available), an interactive color-coded garage map, automated fee calculation, ticket/receipt generation, and a live revenue & occupancy dashboard.
 
@@ -184,12 +175,9 @@ Open-source contribution: dark mode UI enhancement, built during **GSSoC 2026**.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ramisetty-bala-naga-bhavya-687555322">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/Bhavya7-ttd">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<p align="center">
+<a href="https://www.linkedin.com/in/ramisetty-bala-naga-bhavya-687555322"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/Bhavya7-ttd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 </div>
 
