@@ -127,15 +127,21 @@ Desktop application for managing books, search, issue, and return operations.
 <tr>
 <td width="50%" valign="top">
 
-### 🌙 Auto-Fill-Tool — Dark Mode Feature
-Open-source contribution: dark mode UI enhancement, built during **GSSoC 2026**.
+### 🅿️ AVA — Skyline Parking Garage Management System
 
-`Open Source` `UI/UX`
+Desktop-based parking management application with smart spot allocation (preferred-level & nearest-available), an interactive color-coded garage map, automated fee calculation, ticket/receipt generation, and a live revenue & occupancy dashboard.
+
+`Java` `Java Swing` `OOP`
+
+🔗 [GitHub](https://github.com/Bhavya7-ttd/Skyline-Parking-Garage-Management-System)
 
 </td>
 <td width="50%" valign="top">
 
-&nbsp;
+### 🌙 Auto-Fill-Tool — Dark Mode Feature
+Open-source contribution: dark mode UI enhancement, built during **GSSoC 2026**.
+
+`Open Source` `UI/UX`
 
 </td>
 </tr>
