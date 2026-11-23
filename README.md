@@ -2,10 +2,10 @@
 
 # Hi, I'm Bhavya Ramisetty 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Full+Stack+%26+Backend+Developer;AI-Powered+Project+Builder;Open+Source+Contributor;DSA+Mentor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Infosys+Springboard+Virtual+Intern;Full+Stack+%26+Backend+Developer;AI-Powered+Project+Builder;Open+Source+Contributor;DSA+Mentor" alt="Typing SVG" />
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ramisetty-bala-naga-bhavya-687555322"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://leetcode.com/u/BalaNagaBhavya/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a> <a href="https://www.codechef.com/users/heavy_cloak_35"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a> <a href="https://www.hackerrank.com/profile/ramisettyanurad1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ramisetty-bala-naga-bhavya-687555322"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://leetcode.com/u/BalaNagaBhavya/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a> <a href="https://www.codechef.com/users/alert_bliss_73"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a> <a href="https://www.hackerrank.com/profile/ramisettyanurad1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 </p>
 
 </div>
@@ -15,11 +15,26 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech Computer Science & Engineering undergraduate (graduating 2028), CGPA 9.51/10
+- 💼 Virtual Intern at **Infosys Springboard**, where I built a Feature Management System with Release Control Assistance
 - 🧱 I build full-stack and backend applications end to end: React frontends, FastAPI/Flask APIs, SQL and NoSQL databases, and Docker
 - 🤖 I work on AI-powered products, from a payments-integrated agentic shopping assistant to a real-time sign language recognition model
 - 🌍 Open-source contributor (GSSoC 2026)
 - 🧑‍🏫 DSA Mentor and Campus Ambassador at Smart Interviews
 - 📚 Currently deepening my skills in backend architecture, LLM applications and Data Structures & Algorithms
+
+<br/>
+
+## 💼 Experience
+
+**Virtual Intern, Infosys Springboard** (2026)
+
+**Project: Feature Management System with Release Control Assistance** &nbsp; `FastAPI` `PostgreSQL` `React` `Docker`
+
+- Developed a web-based feature flag management system with release control across **Development, Staging and Production** environments
+- Implemented role-based access control (RBAC), single-administrator enforcement and audit logging for secure and traceable feature operations
+- Integrated FastAPI, PostgreSQL and Docker for scalable backend services and reliable data management
+
+🔗 [GitHub](https://github.com/Springboard-Internship-2026/Development-of-a-Web-Based-Application-Feature-Management-Sys-with-Release-Control-Assista-AUG-2026/tree/Ramisetty-Bala-Naga-Bhavya)
 
 <br/>
 
@@ -95,7 +110,7 @@
 
 ### 🚩 Feature Management System with Release Control
 
-Web-based feature flag management system with release control across **Development, Staging and Production** environments. Includes role-based access control (RBAC), single-administrator enforcement and audit logging for secure, traceable feature operations.
+*Built during my Infosys Springboard virtual internship.* Web-based feature flag management system with release control across **Development, Staging and Production** environments. Includes role-based access control (RBAC), single-administrator enforcement and audit logging for secure, traceable feature operations.
 
 `FastAPI` `PostgreSQL` `React` `Docker`
 
@@ -186,6 +201,7 @@ Open-source contribution: dark mode UI enhancement, built during **GSSoC 2026**.
 
 ## 🏆 Achievements & Certifications
 
+- 💼 Virtual Intern at Infosys Springboard (Feature Management System with Release Control Assistance)
 - 🚀 Open Source Contributor at GSSoC 2026
 - 🧑‍🏫 DSA Mentor & Campus Ambassador at Smart Interviews
 - ☁️ Oracle Cloud Infrastructure 2025 Certified Foundations Associate
